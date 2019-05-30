@@ -4,6 +4,21 @@ namespace Division
 {
     class Program
     {
+        static void Main(string[] args)
+        {
+            int dividendo, divisor;
+
+            pedirParametros(out dividendo, out divisor);
+            
+            try
+            {
+                Console.WriteLine(dividendo + " / " + divisor + " = " + dividir(dividendo, divisor));
+            }
+            catch (DivideByZeroException e)
+            {
+                Console.WriteLine(e.Message);
+            }
+        }
 
         static int dividir(int dividendo, int divisor)
         {
@@ -29,18 +44,12 @@ namespace Division
 
         }
 
-        static void Main(string[] args)
+        static void pedirParametros(out int dividendo, out int divisor)
         {
-            int dividendo = 3;
-            int divisor = 2;
-            try
-            {
-                Console.WriteLine(dividendo + " / " + divisor + " = " + dividir(dividendo, divisor));
-            }
-            catch (DivideByZeroException e)
-            {
-                Console.WriteLine(e.Message);
-            }
+            Console.Write("Dividendo: ");
+            dividendo = int.Parse(Console.ReadLine());
+            Console.Write("Divisor: ");
+            divisor = int.Parse(Console.ReadLine());
         }
     }
 }

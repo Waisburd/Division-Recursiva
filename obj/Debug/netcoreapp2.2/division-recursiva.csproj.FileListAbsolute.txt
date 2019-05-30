@@ -1,0 +1,11 @@
+/home/waisburd/Lagash/division-recursiva/bin/Debug/netcoreapp2.2/division-recursiva.deps.json
+/home/waisburd/Lagash/division-recursiva/bin/Debug/netcoreapp2.2/division-recursiva.runtimeconfig.json
+/home/waisburd/Lagash/division-recursiva/bin/Debug/netcoreapp2.2/division-recursiva.runtimeconfig.dev.json
+/home/waisburd/Lagash/division-recursiva/bin/Debug/netcoreapp2.2/division-recursiva.dll
+/home/waisburd/Lagash/division-recursiva/bin/Debug/netcoreapp2.2/division-recursiva.pdb
+/home/waisburd/Lagash/division-recursiva/obj/Debug/netcoreapp2.2/division-recursiva.csprojAssemblyReference.cache
+/home/waisburd/Lagash/division-recursiva/obj/Debug/netcoreapp2.2/division-recursiva.csproj.CoreCompileInputs.cache
+/home/waisburd/Lagash/division-recursiva/obj/Debug/netcoreapp2.2/division-recursiva.AssemblyInfoInputs.cache
+/home/waisburd/Lagash/division-recursiva/obj/Debug/netcoreapp2.2/division-recursiva.AssemblyInfo.cs
+/home/waisburd/Lagash/division-recursiva/obj/Debug/netcoreapp2.2/division-recursiva.dll
+/home/waisburd/Lagash/division-recursiva/obj/Debug/netcoreapp2.2/division-recursiva.pdb

@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/waisburd/Lagash/tareaDia8/tareaDia8.csproj",
-      "projectName": "tareaDia8",
-      "projectPath": "/home/waisburd/Lagash/tareaDia8/tareaDia8.csproj",
+      "projectUniqueName": "/home/waisburd/Lagash/division-recursiva/division-recursiva.csproj",
+      "projectName": "division-recursiva",
+      "projectPath": "/home/waisburd/Lagash/division-recursiva/division-recursiva.csproj",
       "packagesPath": "/home/waisburd/.nuget/packages/",
-      "outputPath": "/home/waisburd/Lagash/tareaDia8/obj/",
+      "outputPath": "/home/waisburd/Lagash/division-recursiva/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
