@@ -7,8 +7,6 @@ namespace Division
         static void Main(string[] args)
         {
             int dividendo, divisor;
-
-            pedirParametros(out dividendo, out divisor);
             
             try
             {
