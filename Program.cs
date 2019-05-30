@@ -12,9 +12,10 @@ namespace Division
             
             try
             {
+                pedirParametros(out dividendo, out divisor);
                 Console.WriteLine(dividendo + " / " + divisor + " = " + dividir(dividendo, divisor));
             }
-            catch (DivideByZeroException e)
+            catch (Exception e)
             {
                 Console.WriteLine(e.Message);
             }
@@ -25,9 +26,7 @@ namespace Division
             int cociente = 1;
             int nuevoDividendo = dividendo - divisor;
             if(divisor == 0)
-            {
                 throw new DivideByZeroException();
-            }
             if(nuevoDividendo < 0)
             {
                 return 0;
