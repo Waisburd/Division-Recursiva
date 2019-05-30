@@ -1,0 +1,11 @@
+/home/waisburd/Lagash/tareaDia8/bin/Debug/netcoreapp2.2/tareaDia8.deps.json
+/home/waisburd/Lagash/tareaDia8/bin/Debug/netcoreapp2.2/tareaDia8.runtimeconfig.json
+/home/waisburd/Lagash/tareaDia8/bin/Debug/netcoreapp2.2/tareaDia8.runtimeconfig.dev.json
+/home/waisburd/Lagash/tareaDia8/bin/Debug/netcoreapp2.2/tareaDia8.dll
+/home/waisburd/Lagash/tareaDia8/bin/Debug/netcoreapp2.2/tareaDia8.pdb
+/home/waisburd/Lagash/tareaDia8/obj/Debug/netcoreapp2.2/tareaDia8.csprojAssemblyReference.cache
+/home/waisburd/Lagash/tareaDia8/obj/Debug/netcoreapp2.2/tareaDia8.csproj.CoreCompileInputs.cache
+/home/waisburd/Lagash/tareaDia8/obj/Debug/netcoreapp2.2/tareaDia8.AssemblyInfoInputs.cache
+/home/waisburd/Lagash/tareaDia8/obj/Debug/netcoreapp2.2/tareaDia8.AssemblyInfo.cs
+/home/waisburd/Lagash/tareaDia8/obj/Debug/netcoreapp2.2/tareaDia8.dll
+/home/waisburd/Lagash/tareaDia8/obj/Debug/netcoreapp2.2/tareaDia8.pdb

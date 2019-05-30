@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/waisburd/Lagash/tareaDia8/tareaDia8.csproj": {}
+  },
+  "projects": {
+    "/home/waisburd/Lagash/tareaDia8/tareaDia8.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/waisburd/Lagash/tareaDia8/tareaDia8.csproj",
+        "projectName": "tareaDia8",
+        "projectPath": "/home/waisburd/Lagash/tareaDia8/tareaDia8.csproj",
+        "packagesPath": "/home/waisburd/.nuget/packages/",
+        "outputPath": "/home/waisburd/Lagash/tareaDia8/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/waisburd/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
